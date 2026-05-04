@@ -1,0 +1,7 @@
+/vendor/
+/.phpunit.cache/
+/.php_cs.cache/
+/docker-compose.yml
+/docker/*.yml
+.env
+.phpunit.result.cache
